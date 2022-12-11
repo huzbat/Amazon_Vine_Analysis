@@ -14,10 +14,10 @@ What is the number of Vine reviews vs. non-Vine reviews?
 Given total=49,103 only 386 are in the vine program. Vine users represent about 0.78% of overall reviews.
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-![This is an image](five_star_review.png)
+![This is an image](Resources/five_star_review.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-![This is an image](5star_perc.png)
+![This is an image](Resources/5star_perc.png)
 
 ## Summary
 
