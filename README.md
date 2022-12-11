@@ -6,7 +6,7 @@ Example:SellBy pay's fee to Amazon and offers products in exchange for a publish
 
 Utilizing approximately 50 datasets, each containing specific product reviews from clothing apparel to wireless products. PySpark is utilized to perform ETL process to extract, transform, connect and load data from Amazon S3 bucket into pgAdmin. The key role of PySpark is in determining positivity bias from Vine members.
 
-Software; PySpark 
+Software: PySpark 
 
 ## Results
 
